@@ -1,10 +1,9 @@
 # Visualização simples de conjuntos de dados usando Amazon S3 e Amazon QuickSight
 [Tutorial: https://www.youtube.com/watch?v=4-8cXuZzKTg ](https://www.youtube.com/watch?v=4-8cXuZzKTg)
+
 ## Fazer download dos arquivos necessários:
 - Conjunto de dados dos 50.000 produtos mais vendidos da Amazon em 2023
-  <img src="">
 - Arquivo de manifesto: utilizado para configurar a importação de dados.
-   <img src="">
 
 ## Armazenar o conjunto de dados em um bucket do Amazon S3:
 - Criar o bucket.
@@ -13,9 +12,9 @@
   <img src="https://github.com/V1ctor1aTorres/Simple-Data-Visualization-With-Amazon-QuickSight/blob/main/images/upload_manifest.png">
 
 ## Conectar o bucket com o Amazon QuickSight:
-- Se regristrar no QuickSight para "free trial" caso ainda não tenha conta
+- Se registrar no QuickSight para "free trial" caso ainda não tenha conta.
   <img src="https://github.com/V1ctor1aTorres/Simple-Data-Visualization-With-Amazon-QuickSight/blob/main/images/QuickSight.png">
-- Selecionar o bucket que você quer conectar ao QuickSight
+- Selecionar o bucket que você quer conectar ao QuickSight.
   <img src="https://github.com/V1ctor1aTorres/Simple-Data-Visualization-With-Amazon-QuickSight/blob/main/images/select_bucket.png">
 - No painel do QuickSight: datasets > new datasets > s3 > copiar a ulr do aquivo de manifesto e colar > criar um nome
   <img src="https://github.com/V1ctor1aTorres/Simple-Data-Visualization-With-Amazon-QuickSight/blob/main/images/manifest_url.png">
