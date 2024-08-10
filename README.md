@@ -1,5 +1,5 @@
 # Visualização simples de conjuntos de dados usando Amazon S3 e Amazon QuickSight
-[Tutorial: https://www.youtube.com/watch?v=4-8cXuZzKTg ](https://www.youtube.com/watch?v=4-8cXuZzKTg)
+[Build with Me: Visualize Data using Amazon QuickSight | AWS Project](https://www.youtube.com/watch?v=4-8cXuZzKTg)
 
 ## Fazer download dos arquivos necessários:
 - Conjunto de dados dos 50.000 produtos mais vendidos da Amazon em 2023
